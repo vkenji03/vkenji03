@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- I’m currently learning React and Typescript
+- I’m currently learning about machine learning and data science
