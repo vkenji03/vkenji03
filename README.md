@@ -9,7 +9,7 @@ I am a computer science student at UNICAMP and interested in the field of AI.
 </div>
 
 ## I'm current learning:
-- AI and computer vision
+- Machine Learning and Computer Vision
 
 ## Technical Skills:
 <div>
